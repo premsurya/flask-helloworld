@@ -1,7 +1,7 @@
 Hello World with Flask
 ======================
 
-In this tutorial, you will create a web app and deploy it to Heroku. You will use a Flask create the app. You'll first run the app locally, and then deploy it to Heroku using git.
+n this tutorial, you will create a web app and deploy it to Heroku. You will use a Flask create the app. You'll first run the app locally, and then deploy it to Heroku using git.
 
 Prerequisites
 -------------
